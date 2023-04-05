@@ -1,6 +1,5 @@
 # art_shop
-Вы можете посмотреть сайт по ссылке: https://github.com/DanilVystupov/art_shop_VUE.git
-
+Вы можете посмотреть сайт по ссылке: https://incandescent-otter-e8642b.netlify.app/#/
 ## Project setup
 ```
 npm install
